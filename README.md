@@ -91,8 +91,23 @@ The Slicers allowed the filtering on the information and here the gender filter 
 
 ![SLICERS](https://github.com/Horlawuhmi/EXCEL_PROJECT_1/assets/139240835/e782120c-f4fc-4a17-a784-2d98ce016f04)
 
+# CONCLUSION
 
+The analysis reflect the "BIKES" category products was the most produced, while the products that generated the most revenue was "WATER BOTTLE-30 oz". California had the highestorder, New South Wales had the lowest and Young Adults(25-34) created the most average revenue by age. United states had the higest revenue among the countries and Canada had the least. The company had its highest sale in 2015, and the lowest in 2011.
 
+# RECOMMENDATION
+
+* Product Focus: Given that products in the "BIKES" category are the most produced, it's beneficial to continue prioritizing and optimizing this category. Consider investing in innovation, marketing, and quality improvements to maintain its popularity.
+
+* Revenue Optimization: Considering that "WATER BOTTLE-30 oz." is the top revenue generator, consider leveraging its success by exploring opportunities to cross-sell or upsell related products or variations. This could further boost revenue streams.
+
+* Regional Strategies: Given that California boasts the highest revenue, it's essential to identify the factors contributing to its success. Implement targeted marketing and distribution strategies that have worked well in California to other regions for potential revenue growth.
+
+* Regional Performance Improvement: With South Wales showing lower revenue, assess the reasons behind this trend. Investigate whether there are specific challenges related to market reach, product relevance, or competitive factors that need to be addressed.
+
+* Customer Segment Emphasis: As Young Adults (25-34) generate the most average revenue by age, tailor marketing campaigns, product recommendations, and engagement efforts to cater to this age group's preferences and needs.
+
+* Seasonal and Trend Insights: Given that the company's highest sale was in 2015 and the lowest in 2011, study the factors contributing to these fluctuations. Apply lessons from these patterns to anticipate and prepare for similar trends in the future
 
 
 
