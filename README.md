@@ -34,6 +34,7 @@ Utilizing a pivot table in Excel, we can swiftly calculate the comprehensive tot
 ![TOTAL REV](https://github.com/Horlawuhmi/EXCEL_PROJECT_1/assets/139240835/a4f1af86-b15c-4b13-9389-e3dc468ff8a1)
 
 
+
 * TOTAL PRODUCTS 
 
 Using a DISTINCT COUNT on a pivot table shows the total products produced by the company over the year provided in the data to determine several other factors.
